@@ -1,0 +1,10 @@
+{
+  "name": "src",
+  "version": "0.5.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
